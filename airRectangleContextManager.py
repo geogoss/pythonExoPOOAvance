@@ -36,7 +36,3 @@ class Rectangle:
 with Rectangle(6, 12) as r:
     r.calcul_aire()
 
-
-
-
-
